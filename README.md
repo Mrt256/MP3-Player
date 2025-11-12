@@ -1,4 +1,5 @@
-# Mini Music Player 🎶
+# Music Player 
+**Developed by:** Matheus Henrique Engel Stelzner  
 
 A Python application that plays MP3 files using a graphical interface built with Tkinter and Pygame.
 
